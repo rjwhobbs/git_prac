@@ -1,2 +1,1 @@
-This text file has words.
-And now here's a newline.
+I deleted the last 2 lines.
