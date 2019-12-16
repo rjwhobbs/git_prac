@@ -1,1 +1,2 @@
-I deleted the last 2 lines.
+A
+B
