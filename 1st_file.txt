@@ -1,3 +1,6 @@
+A
+B
+C
 Bb1
 Dd2
 Ee3
