@@ -4,11 +4,9 @@ C
 Bb1
 Dd2
 Ee3
-a1
+a
 b2
 c3
-zzz
-zzz
 p
 p
 p
